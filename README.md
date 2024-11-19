@@ -2,9 +2,12 @@
 This code is purely made for education and research purposes. (And also because I have too much free time.)
 # First time setup
 First step is to have python already installed in your computer.\
-Second step is to clone the repository into your directory.
+Second step is to clone the repository into your directory and cd to it.
 ```bash
 git clone https://github.com/SenyxLois/KeyboxCheckerPython
+```
+```bash
+cd KeyboxCheckerPython
 ```
 Third step is to install all required dependencies :-
 
@@ -31,9 +34,9 @@ python main.py path/to/keyboxs
 ```
 
 #### Example picture
-*Example of a single keybox*
+*Example of a single keybox*\
 ![aosp-example](https://github.com/user-attachments/assets/fad99171-677b-458a-8eb7-299c05519827)
-*Example of bulk checking keyboxes*
+*Example of bulk checking keyboxes*\
 ![cuh](https://github.com/user-attachments/assets/88ae7f19-6e73-478c-8385-2b5492cc7178)
 
 # Special thanks to!
