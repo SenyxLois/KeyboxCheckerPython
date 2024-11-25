@@ -9,7 +9,7 @@ git clone https://github.com/SenyxLois/KeyboxCheckerPython
 Third step is to install all required dependencies :-
 
 > [!TIP]
-> Python virtual enviroment is highly recommended!
+> Python virtual environment is highly recommended!
 ```bash
 pip install -r requirements.txt
 
